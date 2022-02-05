@@ -17,7 +17,8 @@
   <img align="center" alt="Fernando-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Fernando-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Fernando-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="right" alt="Fernando-gif" src= "https://cdn.discordapp.com/attachments/937431464004444172/939633647043108954/643oi0.gif">
+  <img align="right" alt="Fernando-gif" height="150" style="border-radius:50px;"
+ src="https://cdn.discordapp.com/attachments/937431464004444172/939633647043108954/643oi0.gif">
     
 </div>    
 
@@ -25,4 +26,8 @@
     
 <div> 
   <a href="https://instagram.com/kodaah_"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
+  ![Snake animation](https://github.com/fernandoPastore/fernandoPastore/blob/output/github-contribution-grid-snake.svg)
+ 
+  
     </div>
