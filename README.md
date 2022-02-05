@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there 👋 or Olá Galera!
 
-<!--
-**fernandoPastore/fernandoPastore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  I'M Fernando Pastore 😁
 
-Here are some ideas to get you started:
+- 🔭 I’m currently looking for a job to get more experience about T.I so I could become a great full stack developer.🙌
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Atualmente estou à procura de um trabalho que me proporcione mais experiência sobre T.I para me tornar um bom desenvolvedor.🙌
+
+- 🌱 I’m currently learning JS and CSS
+
+- 🌱 Estudando JS and CSS
+
+- 💬 Ask me about Music Stuff
+
+- 💬 Me Pergunte sobre música 
+
+- 📫 How to reach me: fesp.dotto@gmail.com   
+
+- 📫 contato email: fesp.dotto@gmail.com 
