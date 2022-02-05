@@ -18,6 +18,9 @@
   <img align="center" alt="Fernando-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Fernando-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /
 </div>    
-<br>
+
+##
+    
 <div> 
   <a href="https://instagram.com/kodaah_"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    </div>
