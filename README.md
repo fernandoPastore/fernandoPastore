@@ -17,8 +17,7 @@
   <img align="center" alt="Fernando-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Fernando-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Fernando-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-   <img align="right" alt="Fernando-Gif" src="https://cdn.discordapp.com/attachments/937431464004444172/939630926269394944/download20220206181345.png">
-  
+  <img align="right" alt="Fernando-gif" src= "https://cdn.discordapp.com/attachments/937431464004444172/939633336660414524/643oc8.gif">
 </div>    
 
 ##
