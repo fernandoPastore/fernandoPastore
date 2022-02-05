@@ -27,6 +27,7 @@
 <div> 
   <a href="https://instagram.com/kodaah_"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
+  </div>
   ![Snake animation](https://github.com/fernandoPastore/fernandoPastore/blob/output/github-contribution-grid-snake.svg)
  
     </div>
