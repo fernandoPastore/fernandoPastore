@@ -30,4 +30,4 @@
   </div>
   ![Snake animation](https://github.com/fernandoPastore/fernandoPastore/blob/output/github-contribution-grid-snake.svg)
  
-    </div>
+
