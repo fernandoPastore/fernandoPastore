@@ -17,3 +17,9 @@
 - 📫 How to reach me: fesp.dotto@gmail.com   
 
 - 📫 contato email: fesp.dotto@gmail.com 
+
+<div>
+  <a href="https://github.com/fernandoPastore">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandoPastore&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoPastore&layout=compact&langs_count=10&theme=dracula"/>
+</div>
