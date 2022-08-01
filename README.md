@@ -1,7 +1,7 @@
 ### Hi there 👋 I'M Fernando Pastore 😁
 
 - 🔭 I’m currently looking for a job to get more experience about T.I so I could become a great full stack developer.🙌
-- 🌱 I’m currently learning JS and CSS
+- 🌱 I’m currently learning React
 - 📚 Bachelor in Business Management
 - 📫 How to reach me: fesp.dotto@gmail.com
 
