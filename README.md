@@ -1,4 +1,4 @@
-### Hi there 👋 I'M Fernando Pastore 😁
+### Hi there 👋 I'm Fernando Pastore 😁
 
 - 🔭 I’m currently looking for a job to get more experience about T.I so I could become a great full stack developer.🙌
 - 🌱 I’m currently learning React
