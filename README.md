@@ -21,7 +21,7 @@
  src="https://cdn.discordapp.com/attachments/937431464004444172/939633647043108954/643oi0.gif">
     
 </div>    
-##
+
     
 <div> 
   <a href="https://instagram.com/kodaah_"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
